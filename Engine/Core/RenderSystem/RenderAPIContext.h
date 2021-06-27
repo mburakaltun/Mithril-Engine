@@ -37,6 +37,7 @@ namespace Mithril
 
 		//Renders all models in the context
 		virtual void RenderScene() = 0;
+		
 	private:
 	};
 }
